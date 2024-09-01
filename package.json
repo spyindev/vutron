@@ -62,7 +62,7 @@
     "eslint-plugin-n": "16.6.2",
     "eslint-plugin-promise": "^6.2.0",
     "eslint-plugin-vue": "^9.26.0",
-    "playwright": "^1.44.1",
+    "playwright": "^1.46.1",
     "prettier": "^3.3.2",
     "tree-kill": "^1.2.2",
     "typescript": "^5.5.3",
